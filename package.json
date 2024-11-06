@@ -1,0 +1,35 @@
+{
+  "name": "aidol-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.95.4",
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "instagram-private-api": "^1.46.1",
+    "memory-cache": "^0.2.0",
+    "mongoose": "^8.8.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "rate-limiter-flexible": "^5.0.4",
+    "twitter-api-v2": "^1.18.1",
+    "winston": "^3.16.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.14.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3",
+    "supertest": "^7.0.0"
+  }
+}

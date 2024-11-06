@@ -1,0 +1,20 @@
+node_modules/
+.env
+logs/
+coverage/
+.DS_Store
+*.log
+# Blockchain
+.anchor
+.DS_Store
+target/
+**/*.rs.bk
+test-ledger/
+.env
+node_modules/
+dist/
+build/
+coverage/
+.idea/
+.vscode/
+*.log
