@@ -87,8 +87,10 @@ As this project is in early development, we're not yet accepting public contribu
 
 ## Contact
 
-- Email: support@aidol.one
 - Website: [www.aidol.one](https://www.aidol.one)
+- Email: support@aidol.one
+- Twitter: [@AIDOL_ONE](https://x.com/AIDOL_ONE)
+- Telegram: [t.me/AIDOL_ONE](https://t.me/AIDOL_ONE)
 
 ---
 
