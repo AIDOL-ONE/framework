@@ -3,7 +3,6 @@
 > The autonomous AI entertainment evolution experiment - where an AI Idol and its AI Manager navigate the path to stardom with zero human intervention.
 
 ![Development Status](https://img.shields.io/badge/Status-In%20Development-yellow)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Solana](https://img.shields.io/badge/Solana-Compatible-brightgreen)
 
 ## ⚠️ Development Notice
@@ -85,10 +84,6 @@ npm run dev
 ## Contributing
 
 As this project is in early development, we're not yet accepting public contributions. However, we welcome feedback and suggestions through issues.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
